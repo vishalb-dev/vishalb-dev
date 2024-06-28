@@ -4,26 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/vishal-bansal-973aa1248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrknR%2F%2FWKREqJ9nKRcyJXNg%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/VishalBansal_04?t=YhjqhSGmf0MCXw5DlH6ZmQ&s=08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="vishalbansal2106@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishalb-dev.vishalb-dev&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋, I'm Vishal Bansal</h1>
 
 ###
@@ -32,7 +12,7 @@
 
 ###
 
-<h5 align="left">- 📚 I'm currently learning Data Structures and Algorithms</h5>
+<h4 align="left">- 📚 I'm currently learning Data Structures and Algorithms</h4>
 
 ###
 
@@ -54,15 +34,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Connect with me :</h3>
 
 ###
 
-<div align="center">
+<div align="left">
+  <a href="https://www.linkedin.com/in/vishal-bansal-973aa1248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUCHIbEzJT5GVqVIb%2FHxmSA%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/VishalBansal_04?t=YhjqhSGmf0MCXw5DlH6ZmQ&s=08" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
