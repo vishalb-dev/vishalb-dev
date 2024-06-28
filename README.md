@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋, My name is Vishal Bansal
+#### I'm  a Learner
+I'm currently learning Data Structures and Algorithms
 
-I'm Vishal Bansal 
+Skills: C / C++ / Java / Python
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalb-dev)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+
+
+
+
